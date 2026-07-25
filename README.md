@@ -2,12 +2,12 @@
 
 > Submission for the Dettroin Full Stack Developer Internship — Round 1 (Website Redesign Challenge)
 
-**Full Name:** [YOUR FULL NAME]
-**Intern ID:** [YOUR INTERN ID]
-**Email Address:** [YOUR EMAIL]
-**GitHub Username:** [YOUR GITHUB USERNAME]
+**Full Name:** Mohit Kumar Verma
+**Intern ID:** [Not provided in the assignment email]
+**Email Address:** mohit.kverma12@gmail.com
+**GitHub Username:** mohitcodes12
 **Selected Website:** https://kisaligarh.com/ (Krishna International School, Aligarh)
-**Live Demo Link:** [PASTE YOUR VERCEL URL HERE AFTER DEPLOYING]
+**Live Demo Link:** https://dettroin-int-mohit-website.vercel.app/
 
 ## Technologies Used
 - HTML5
@@ -51,7 +51,3 @@ kis-redesign/
 └── README.md
 ```
 
-## Running Locally
-No build step required. Either:
-1. Open `index.html` directly in a browser, or
-2. Serve it locally: `npx serve .` (or any static server) from the project folder.
